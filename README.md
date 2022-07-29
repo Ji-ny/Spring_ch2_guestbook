@@ -18,11 +18,13 @@
 
 DBeaver → 원하는 테이블 선택 후 엔티티 관계도 선택
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/70ac418c-84d3-4c0a-a65b-f39001f6e13b/Untitled.png)
+![Untitled]![Untitled (1)](https://user-images.githubusercontent.com/96537605/181761274-eae4f4b5-8795-4711-87a9-c6fe98d65fd0.png)
+(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/70ac418c-84d3-4c0a-a65b-f39001f6e13b/Untitled.png)
 
 [[DBeaver]ERD 확인하기 : 네이버 블로그 (naver.com)](https://blog.naver.com/PostView.nhn?blogId=hj_kim97&logNo=222230861879&parentCategoryNo=&categoryNo=15&viewDate=&isShowPopularPosts=false&from=postView)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e7d807a-7744-46cb-90f0-a4623dd839f6/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/96537605/181761234-ecde2dea-9f84-4d44-8cdd-51faae0ce690.png)
 
 
 ----
@@ -34,6 +36,8 @@ DBeaver → 원하는 테이블 선택 후 엔티티 관계도 선택
 - page 제목도 변경시켰다
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3662e17d-391a-4600-a13f-97133c70bd19/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/96537605/181761171-f9f53587-b19d-4fec-b38b-e4e476762a51.png)
+
 
 1. **list.html**
 
